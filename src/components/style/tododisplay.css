@@ -1,0 +1,23 @@
+#btndiv{
+    margin-top: 2em;
+}
+#cards{
+    background-color:   gold;
+    /* color: white; */
+    box-shadow:   0 .125rem .25rem  rgb(175, 175, 175);
+    cursor: pointer;
+    button{
+        font-size: larger;
+        font-weight: 500;
+    }
+    button:hover{
+        box-shadow:   0 .125rem .25rem  rgb(67, 67, 67);
+    }
+}
+#card-dropdown{
+    background-color: #0D3B66;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    
+}
